@@ -1,0 +1,27 @@
+html {
+background-color: black;
+}
+h1 {color: white;
+font-family: "Caveaat", cursive;
+font-optical-sizing: auto;
+font-weight: 700;
+font-style: normal;
+text-transform: uppercase;
+text-align: center;}
+p {
+    color: white;
+}
+
+div {
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    padding-top: 20px;
+}
+
+img {
+    width: 100%;
+    border: 5px solid white;
+    height: 350px
+}
+
